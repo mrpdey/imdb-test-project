@@ -1,0 +1,20 @@
+
+.imdb-icon {
+    width: 135px;
+    color: black;
+}
+
+.footer-buttom {
+    border-top: 1px solid #ffbc00;
+    text-align: center;
+    padding: 20px;
+    color: #ebc949;
+  }
+.footer {
+    background-color: #ffffff;
+    height: 175px;
+}
+
+.footer-nav-icon{
+  padding: 30px 45px;
+}

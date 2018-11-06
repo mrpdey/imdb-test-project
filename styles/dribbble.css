@@ -1,0 +1,43 @@
+body{
+  background: rgba(47, 47, 47, 0.97);
+}
+
+
+.top-page{
+  width: 80%;
+  margin: auto;
+}
+/*=============Header==========
+*/
+.top-nav-bar{
+  position: relative;
+  z-index: 1;
+}
+
+.top-nav-item{
+  padding: 9px;
+}
+
+
+.top-icon {
+    color: yellow;
+}
+
+/*===========Carousel=====*/
+.carousel-content{
+  margin-top: -60px;
+}
+
+
+.carousel-caption-edit {
+    height: 95%;
+    text-align: -webkit-left;
+}
+
+.inner-carousel-content{
+      margin-top: 45%;
+}
+
+.inner-div{
+  padding-top: 100px;
+}

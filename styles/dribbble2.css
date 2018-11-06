@@ -1,0 +1,134 @@
+.content-page{
+margin-top: -80px;
+}
+
+.content-nav{
+width: 75%;
+margin: auto;
+height: 80px;
+}
+
+.pos {
+background: #f2f3f3;
+}
+
+.main-continer {
+width: 69%;
+margin: auto;
+}
+
+.hr-bar{
+padding: 1rem 0px;
+}
+
+.bars{
+padding-right: 15px;
+}
+.th{
+padding-right: 15px;
+}
+.progress-edit{
+width: 55%;
+}
+
+.caption {
+padding-left: 20px;
+padding-top: 20px;
+background: #ffffff;
+}
+
+
+
+
+/*======main content row======
+*/
+
+
+
+.menu-bar {
+width: 24px;
+height: 3.5px;
+background-color: #ccccce;
+margin: 3px 0;
+}
+.menu{
+padding:10px 0px;
+}
+
+.top {
+background: #f2f3f3;
+height: 75px;
+padding: 20px 0px;
+width: 75%;
+margin: 1px auto 0px auto;
+}
+.img-fluid{
+height: 400px;
+margin-top: 35px;
+}
+
+h5{
+font-size: medium;
+margin-bottom: 5px;
+}
+h6{
+font-size: small;
+}
+.caption-rating{
+padding: 10px 0px 0px 10px;
+}
+.triangle {
+position: relative;
+width: 0px;
+height: 0px;
+border-bottom: 50px solid #ebca49;
+border-left: 50px solid transparent;
+}
+.caption-heart{
+color: red;
+font-size: 1.4rem;
+display: flex !important;
+justify-content: flex-start;
+align-items: center;
+}
+.caption-corner{
+position: absolute;
+right: 8px;
+top: 26px;
+color: white;
+}
+.triangle-icon {
+position: absolute;
+right: 7px;
+top: 25px;
+color: white;
+}
+
+
+/*===bottom of content page===
+*/
+.dot-part {
+text-align: center;
+padding: 65px;
+}
+
+
+.dot-sml {
+bottom: 26px;
+position: relative;
+left: 50px;
+height: 6px;
+width: 6px;
+background-color: #ffffff;
+border-radius: 50%;
+display: inline-block;
+}
+
+.dot-big {
+top: 27px;
+height: 60px;
+width: 60px;
+background-color: #ebc949;
+border-radius: 50%;
+display: inline-block;
+}
